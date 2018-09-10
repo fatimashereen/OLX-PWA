@@ -19,6 +19,8 @@ var filesToCache = [
     '/layout/search.html',
     '/layout/user.html',
     '/js/index.js',
+    '/js/login.js',
+    '/js/signup.js',
     '/css/all.css',
     '/css/index.css',
     'images/download.jpg',
